@@ -176,6 +176,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Shubham Gadhave
-GitHub: https://github.com/gadhaves167-dotcom
-LinkedIn: [(https://www.linkedin.com/in/shubham-gadhave-a58b7a377])
+- Shubham Gadhave
+- GitHub: https://github.com/gadhaves167-dotcom
+- LinkedIn: https://www.linkedin.com/in/shubham-gadhave-a58b7a377
